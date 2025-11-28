@@ -89,3 +89,15 @@ El proyecto fue desplegado mediante GitHub Pages y se encuentra disponible en el
 
 ---
 
+## Control de Versiones
+
+El desarrollo del proyecto cuenta con múltiples commits que documentan el avance de:
+- Interfaz.
+- Funcionalidades de cifrado.
+- Funcionalidades de descifrado.
+- Ajustes visuales.
+- Correcciones.
+
+Cumpliendo con el uso correcto de Git y GitHub.
+
+---
