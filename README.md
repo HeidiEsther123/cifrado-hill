@@ -5,8 +5,20 @@ Maestro:Jorge Javier Pedroza Romero
 Materia:Fundamentos de Algebra 
 
 ---
+
 ## Descripción del Proyecto
 
 Este proyecto implementa el algoritmo de Cifrado Hill, un método de criptografía basado en el uso de álgebra lineal y operaciones con matrices.  
 La aplicación permite encriptar y desencriptar mensajes utilizando una matriz clave de 2x2.  
 El sistema trabaja con el alfabeto en mayúsculas (A–Z) y con aritmética módulo 26.
+
+---
+
+## Tecnologías Utilizadas
+ HTML: estructura de la página 
+ CSS: diseño y estilos visuales
+ JavaScript: lógica del cifrado y descifrado  
+ Git y GitHub: control de versiones
+ GitHub Pages: despliegue web  
+ 
+ ---
