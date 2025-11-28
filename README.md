@@ -77,7 +77,15 @@ El proyecto cuenta con un diseño personalizado que incluye:
 - Contador de caracteres.
 - Mensajes de error visuales.
 
+
 Todo el diseño fue realizado con CSS.
+
+---
+## Despliegue Web
+
+El proyecto fue desplegado mediante GitHub Pages y se encuentra disponible en el siguiente enlace:
+
+ https://heidiesther123.github.io/cifrado-hill/
 
 ---
 
