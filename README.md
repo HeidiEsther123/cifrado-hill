@@ -101,3 +101,10 @@ El desarrollo del proyecto cuenta con múltiples commits que documentan el avanc
 Cumpliendo con el uso correcto de Git y GitHub.
 
 ---
+## Conclusión
+
+Este proyecto demuestra la aplicación del Álgebra Lineal en la criptografía mediante el uso de matrices, determinantes, módulos e inversas, integrando matemáticas, programación y diseño web en una sola aplicación.
+
+Proyecto desarrollado como parte de la Unidad III de la materia Fundamentos de Álgebra.
+
+---
