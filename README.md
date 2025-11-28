@@ -67,4 +67,17 @@ Posteriormente se aplica la operación inversa:
 M = K⁻¹ × C (mod 26)
 
 ---
+## Personalización del Proyecto
+
+El proyecto cuenta con un diseño personalizado que incluye:
+- Colores personalizados.
+- Contenedores con sombras.
+- Tipografía moderna.
+- Visualización de la matriz del mensaje.
+- Contador de caracteres.
+- Mensajes de error visuales.
+
+Todo el diseño fue realizado con CSS.
+
+---
 
