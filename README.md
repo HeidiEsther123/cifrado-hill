@@ -34,3 +34,15 @@ El sistema trabaja con el alfabeto en mayúsculas (A–Z) y con aritmética mód
 Nota: La matriz clave debe tener determinante invertible módulo 26 para que el cifrado funcione correctamente.
 
 ---
+
+## Fundamento Matemático del Cifrado Hill
+
+El algoritmo se basa en la multiplicación de matrices.
+
+Conversión de letras a números:
+A = 0, B = 1, C = 2, ..., Z = 25
+
+Matriz clave:
+| a  b |
+| c  d |
+
