@@ -46,3 +46,11 @@ Matriz clave:
 | a  b |
 | c  d |
 
+---
+Proceso de encriptación:
+1. El mensaje se divide en pares de letras.
+2. Cada par se convierte en un vector numérico.
+3. Se multiplica el vector por la matriz clave.
+4. El resultado se reduce módulo 26.
+5. El resultado numérico se convierte nuevamente en letras.
+
